@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClienteAlumnosTokenSas", "ClienteAlumnosTokenSas\ClienteAlumnosTokenSas.csproj", "{254B5ED5-BC6C-438A-9221-FCDF0A60D304}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{254B5ED5-BC6C-438A-9221-FCDF0A60D304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{254B5ED5-BC6C-438A-9221-FCDF0A60D304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{254B5ED5-BC6C-438A-9221-FCDF0A60D304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{254B5ED5-BC6C-438A-9221-FCDF0A60D304}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35B98550-6439-4705-A8AF-852A34D50E97}
+	EndGlobalSection
+EndGlobal
